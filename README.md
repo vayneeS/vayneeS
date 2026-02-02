@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on my data skills.<br>🌱 I’m currently learning more about Power BI.<br>🤔 I’m looking to collaborate on data analytics or data visualization projects.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - vaynee.s@hotmail.com<br>😄 Pronouns: She<br>⚡ Fun fact: I love painting.
+🔭 I’m currently working on my data skills.<br>🌱 I’m currently learning more about creating data pipelines and visualizing data.<br>🤔 I’m looking to collaborate on data analytics / engineering or data visualization projects.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - vaynee.s@hotmail.com<br>😄 Pronouns: She<br>🟡⭐️ Fun fact: I got into Computer Science because of Pixar.
 
 
 ## 🌐 Socials:
