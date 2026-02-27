@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there;Welcome!)](https://git.io/typing-svg)
+
 # 💫 About Me:
-🔭 I’m currently working on my data skills.<br>🌱 I’m currently learning more about creating data pipelines and visualizing data.<br>🤔 I’m looking to collaborate on data analytics / engineering or data visualization projects.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - vaynee.s@hotmail.com<br>😄 Pronouns: She<br>⭐️ Fun fact: Pixar got me into Computer Science.
+🔭 I hold a PhD in Human Computer Interaction and I specialized in the design of experiments for Human-AI interactions.<br>🌱 I’m currently upskilling in data : learning more about creating robust data pipelines and visualizing data.<br>🤔 I’m looking to collaborate on data science / analytics / engineering projects.<br>💬 Ask me about Human-AI stuff.<br>📫 How to reach me: Email - vaynee.s@hotmail.com<br>😄 Pronouns: She<br>⭐️ Fun fact: Pixar got me into Computer Science.
 
 
 ## 🌐 Socials:
