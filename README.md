@@ -1,52 +1,63 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Vaynee Sungeelee, human-AI interaction for assistive technology. I test whether AI and adaptive systems actually work for the people using them." width="100%">
+</p>
+
+<p align="center">
+  <a href="https://vaynees.github.io">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/vaynee-sungeelee/">LinkedIn</a> ·
+  <a href="mailto:vaynee.s@hotmail.com">Email</a>
+</p>
 
 
-<!--
-**vayneeS/vayneeS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I do
 
-Here are some ideas to get you started:
+I help teams find out whether an AI-enabled system really works for the people who depend on it, with a focus on health, rehabilitation and assistive technology. I design the evaluation, run it, and turn the results into recommendations a team can act on. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I spent three years as a technical consultant on Salesforce projects for clients such as AXA and L'Oréal, working in Agile teams, followed by a three year PhD in HCI, followed by a short collaboration on an interview study with artists, on how culture, tools and artistic practice have shifted over a decade of generative AI evolution. 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there;Welcome!)](https://git.io/typing-svg)
+Before research,  That mix is what I bring: research rigour, and the habit of delivering in a team.
+
+Work peer-reviewed at **Scientific Reports**, **ACM IUI** and **ACM CHI**.
+
+<p align="center">
+  <img src="assets/loop.svg" alt="How I work: frame the question, design the study, measure with fitting methods, recommend what to change." width="100%">
+</p>
+
+## Where I add value
+
+**Evidence that an AI-enabled health or assistive product works for its users.**
+Before a product reaches users, I help work out what to measure, how to run the study, and what the results say, so a team can decide what to do next.
+
+**Personalisation that improves outcomes without leaving some users behind.**
+A system that adapts to each person can still work well on average and badly for some people. I look at who benefits and who doesn't, so the adaptation helps everyone rather than only the typical user.
+
+**Trust in intelligent systems.**
+People use a system well only if they understand roughly what it does and when to rely on it. I study how users understand the system, whether that mental model is right, and how it changes the way they work with it.
+
+**Data that decision-makers can use.**
+Data only helps if people can find it, understand it and trust where it came from. I build the steps that take raw data to something clear and well documented that a team can explore and decide from.
 
 
-### Hi, I'm Vaynee 👋
+## Selected work
 
-🎓 **PhD in Human-Computer Interaction | Computer Science**
+### [Personalizing motor learning with machine learning](https://vaynees.github.io/projects/phd-poc-analysis/)
+**Problem:** people don't all learn a motor skill at the same pace, so a fixed practice plan suits some learners and not others.<br>
+**Approach:** I ran an experiment where an algorithm chose each learner's next exercise based on how they were doing, and compared it with random practice, which is a very good baseline for scheduling motor tasks.<br>
+**Tools:** motion capture, Python, multi-armed bandit, statistical analysis.<br>
+**Results:** Random schedules are hard to beat but learners on the adaptive curriculum executed movements more smoothly, and their performance was more even across the group.
 
-🔬 **What I do**  
-I explore how AI systems can be designed, evaluated, and improved to support human learning, decision-making, and real-world activities. My research combines **machine learning, experimental methods, and human-centered evaluation**.
+### [Prosthesis adaptive training](https://vaynees.github.io/projects/prosthesis/)
+**Problem:** a prosthesis controller relying on a classifier learns from the data it is trained on, so who guides the training (the user or the algorithm) changes how well it works.<br>
+**Approach:** I compared different teaching strategies in a between-subjects study, using an EMG armband to record muscle signals.<br>
+**Tools:** Thalmic Labs Myo armband, Python, scikit-learn (LDA classifier).<br>
+**Results:** No strategy stands out for yielding the highest accuracy but the algorithm-led strategy gave the biggest gain in accuracy. It also left users with the best understanding of the controller, measured through the average number of false positives and negatives obtained at test time. Users training the classifier led to faster training at the start.
 
-📊 **What I'm exploring**  
-I'm expanding my skills in **applied machine learning, data science, and analytics** — from translating real-world questions into analytical problems to building data pipelines, evaluating models, and communicating actionable insights.
+### [MoviesDB](https://github.com/vayneeS/MoviesDB)
+**Problem:** IMDb's public data is millions of rows in flat files, which is not not great to explore as it is.<br>
+**Approach:** As part of a collaboration, I designed the relational database and wrote the SQL and Python scripts that load and clean the data, all run with Docker. There is also a graph database and a Streamlit app on top, which uses CSV files cleaned and transformed using SQL.<br>
+**Tools:** Python, SQL, Docker, Neo4j, Streamlit.<br>
+**Results:** a working app where you can browse movies and the people behind them as a graph.
 
-🤝 **Open to collaborating on**  
-Applied AI · Human-AI Interaction · ML Evaluation · Data Science · Responsible AI
+## Toolbox
 
-🛠️ **Tech stack**  
-`Python` · `pandas` · `NumPy` · `scikit-learn` · `SQL` · `Jupyter`
-
-📫 **Get in touch**  
-[Email](mailto:vaynee.s@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/vaynee-sungeelee/)
-
-😄 **Pronouns:** She/her
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VayneeS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VayneeS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VayneeS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=VayneeS&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Python (pandas, NumPy, scikit-learn, Jupyter) · SQL · Docker · n8n · Taguette · Power BI (PL-300 certified)
