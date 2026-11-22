@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://vaynees.github.io">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/vaynee-sungeelee/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/vaynee-sungeelee/">LinkedIn</a> 
 </p>
 
 
@@ -14,17 +14,13 @@ I help teams find out whether an AI-enabled system works for the people who depe
 
 I spent three years as a technical consultant on Salesforce projects for clients such as AXA and L'Oréal, working in Agile teams, followed by a three-year PhD in HCI, followed by a short collaboration on an interview study with artists, on how culture, tools and artistic practice have shifted over a decade of generative AI evolution. 
 
-<p align="center">
-  <img src="assets/loop.svg" alt="How I work: frame the question, design the study, measure with fitting methods, recommend what to change." width="100%">
-</p>
-
 ## Some questions I care about
 
 **Evidence that an AI-enabled health or assistive product works for its users.**
-Before a product reaches users, I help work out what to measure, how to run the study, and what the results say, so a team can decide what to do next.
+Before a product reaches users, I help determine what to measure, how to run the study, and what the results mean, so a team can decide what to do next.
 
 **Personalisation that improves outcomes without leaving some users behind.**
-A system that adapts to each person can still work well on average and badly for some people. I look at who benefits and who doesn't, so the adaptation helps everyone rather than only the typical user.
+A system that adapts to each person can still work well on average and badly for some people. I look at who benefits and who doesn't, so the adaptation helps everyone, not just the typical user.
 
 **Trust in intelligent systems.**
 People use a system well only if they understand roughly what it does and when to rely on it. I study how users understand the system, whether that mental model is right, and how it changes the way they work with it.
