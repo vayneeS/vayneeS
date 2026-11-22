@@ -1,29 +1,24 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Vaynee Sungeelee, human-AI interaction for assistive technology. I test whether AI and adaptive systems actually work for the people using them." width="100%">
+  <img src="banner.svg" alt="Vaynee Sungeelee, human-AI interaction for assistive technology. I test whether AI and adaptive systems actually work for the people using them." width="100%">
 </p>
 
 <p align="center">
   <a href="https://vaynees.github.io">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/vaynee-sungeelee/">LinkedIn</a> ·
-  <a href="mailto:vaynee.s@hotmail.com">Email</a>
 </p>
 
 
-## What I do
+## About me
 
-I help teams find out whether an AI-enabled system really works for the people who depend on it, with a focus on health, rehabilitation and assistive technology. I design the evaluation, run it, and turn the results into recommendations a team can act on. 
+I help teams find out whether an AI-enabled system works for the people who depend on it, with an interest in health, rehabilitation, and assistive technology. I design the evaluation, run it, and turn the results into recommendations a team can act on. 
 
-I spent three years as a technical consultant on Salesforce projects for clients such as AXA and L'Oréal, working in Agile teams, followed by a three year PhD in HCI, followed by a short collaboration on an interview study with artists, on how culture, tools and artistic practice have shifted over a decade of generative AI evolution. 
-
-Before research,  That mix is what I bring: research rigour, and the habit of delivering in a team.
-
-Work peer-reviewed at **Scientific Reports**, **ACM IUI** and **ACM CHI**.
+I spent three years as a technical consultant on Salesforce projects for clients such as AXA and L'Oréal, working in Agile teams, followed by a three-year PhD in HCI, followed by a short collaboration on an interview study with artists, on how culture, tools and artistic practice have shifted over a decade of generative AI evolution. 
 
 <p align="center">
   <img src="assets/loop.svg" alt="How I work: frame the question, design the study, measure with fitting methods, recommend what to change." width="100%">
 </p>
 
-## Where I add value
+## Some questions I care about
 
 **Evidence that an AI-enabled health or assistive product works for its users.**
 Before a product reaches users, I help work out what to measure, how to run the study, and what the results say, so a team can decide what to do next.
